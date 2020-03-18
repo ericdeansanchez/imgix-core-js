@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/node": "12.12.21",
     "benchmark": "2.1.4",
-    "mocha": "6.2.2",
+    "mocha": "7.1.1",
     "phantomjs": "2.1.7",
     "sinon": "9.0.1",
     "typescript": "3.8.3",
